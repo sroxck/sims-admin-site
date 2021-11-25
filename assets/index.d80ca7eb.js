@@ -1,0 +1,1 @@
+import{_ as e}from"./index.b836d4ab.js";import{o as r,c as a}from"./vendor.2e419a72.js";const n={};function o(c,t){return r(),a("div",null," dragTable ")}var _=e(n,[["render",o]]);export{_ as default};
